@@ -1,6 +1,6 @@
 # Fankem
 
-## Alex
+## Alex Junior
 
 ### Eazytraining 18th DevOps Bootcamp
 
@@ -27,6 +27,14 @@ Nous avons cree le ec2 qui permet de creer l AMI et le recupere de facon dynamiq
 Noous avons cree le eip 
 Nous avons cree la security group et defini les differents ports auxquels la security sera connnecte
 En fin nous avons installe nginx et stocke l adresse ip
+
+![Aws1](https://github.com/alexzaza17/Mini-projet-terraform/assets/159175882/51afd0a3-39f2-4703-b36a-05bb93177c13)
+
+
+![Aws2](https://github.com/alexzaza17/Mini-projet-terraform/assets/159175882/935b47df-a6b3-4da8-9bba-efa278ee340d)
+
+
+![VW-Aws](https://github.com/alexzaza17/Mini-projet-terraform/assets/159175882/f0a84169-ac2e-4eef-b1f2-8cb8a6b7965d)
 
 
 ![Server nginx](https://github.com/alexzaza17/Mini-projet-terraform/assets/159175882/c94fd223-4273-4868-bbc2-eaf23f92bc0a)
